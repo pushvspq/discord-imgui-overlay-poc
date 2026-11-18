@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="release" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="overlay/overlay.vcxproj" />
+</Solution>
